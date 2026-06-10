@@ -13,7 +13,7 @@
 
 **Production-grade LangGraph agent** combining financial document Q&A with AML/CTF Suspicious Activity Report generation — powered entirely by a local LLM via Ollama. No API key required.
 
-[**Live Demo**](https://fahadamjad009.github.io/#projects) · [**Portfolio**](https://fahadamjad009.github.io)
+[**Portfolio**](https://fahadamjad009.github.io)
 
 </div>
 
