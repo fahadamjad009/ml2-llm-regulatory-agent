@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cec2973a6b38",
+    "text": "APRA PRUDENTIAL STANDARD APS 220 — CREDIT RISK MANAGEMENT\nAustralian Prudential Regulation Authority\n\nPART 1 — PRELIMINARY\n\n1. This Prudential Standard sets out the requirements that an authorised deposit-taking institution (ADI) must meet in relation to the management of credit risk.\n\n2. Credit risk is the risk of financial loss resulting from a borrower or counterparty failing to meet their obligations in accordance with agreed terms.\n\nPART 2 — CREDIT RISK MANAGEMENT FRAMEWORK\n\n3. An ADI must have a Board",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 0
+  },
+  {
+    "id": "aa108f05f12f",
+    "text": "— CREDIT RISK MANAGEMENT FRAMEWORK\n\n3. An ADI must have a Board-approved credit risk management framework that is commensurate with the nature, scale, and complexity of its activities.\n\n4. The credit risk management framework must include:\n   (a) a credit risk appetite statement that defines the level and types of credit risk the ADI is willing to accept;\n   (b) credit policies and procedures for identifying, measuring, monitoring, and controlling credit risk;\n   (c) a system for credit approval, administr",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 1
+  },
+  {
+    "id": "97d20097f1c0",
+    "text": "ling credit risk;\n   (c) a system for credit approval, administration, and monitoring;\n   (d) processes for identifying and managing problem credits;\n   (e) adequate provisioning for credit losses.\n\nPART 3 — CREDIT RISK APPETITE\n\n5. An ADI's credit risk appetite must be consistent with the ADI's overall risk appetite and business strategy.\n\n6. The credit risk appetite statement must set out:\n   (a) the types of credit exposures the ADI is willing to undertake;\n   (b) concentration limits for individual borr",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 2
+  },
+  {
+    "id": "15d543531bee",
+    "text": "ng to undertake;\n   (b) concentration limits for individual borrowers, industry sectors, geographic regions, and product types;\n   (c) acceptable credit quality thresholds including minimum credit ratings or equivalent internal ratings.\n\nPART 4 — CREDIT ASSESSMENT\n\n7. An ADI must conduct rigorous credit assessments before extending credit. The assessment must consider:\n   (a) the borrower's capacity to repay, including current and projected cash flows;\n   (b) the borrower's character and willingness to repa",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 3
+  },
+  {
+    "id": "6161298b96b3",
+    "text": "h flows;\n   (b) the borrower's character and willingness to repay;\n   (c) the nature and value of collateral or security offered;\n   (d) macroeconomic conditions that may affect the borrower's ability to repay.\n\n8. For large exposures, an ADI must conduct independent credit assessments that do not rely solely on external credit ratings.\n\nPART 5 — PROBLEM CREDIT MANAGEMENT\n\n9. An ADI must have a system for early identification of problem credits and must take timely action to address deteriorating credit qua",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 4
+  },
+  {
+    "id": "7141807afcac",
+    "text": "and must take timely action to address deteriorating credit quality.\n\n10. Problem credits must be classified according to the ADI's internal credit grading system, which must align with APRA's prescribed categories: Pass, Special Mention, Substandard, Doubtful, and Loss.\n\n---\n\nAUSTRAC REGULATORY GUIDE — SUSPICIOUS MATTER REPORTING\n\n1. INTRODUCTION\n\nSuspicious matter reporting is a key component of Australia's anti-money laundering and counter-terrorism financing (AML/CTF) framework. Reporting entities are",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 5
+  },
+  {
+    "id": "8ca857510e02",
+    "text": "terrorism financing (AML/CTF) framework. Reporting entities are required to submit Suspicious Matter Reports (SMRs) to AUSTRAC when they form a suspicion that matters may be related to:\n- money laundering\n- financing of terrorism\n- proceeds of crime\n- tax evasion\n- fraud or other serious offences\n\n2. WHEN TO REPORT\n\nA reporting entity must submit an SMR as soon as practicable, and no later than three business days after forming a suspicion. For terrorism financing suspicions, the report must be submitted wi",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 6
+  },
+  {
+    "id": "c613e031a6dd",
+    "text": "terrorism financing suspicions, the report must be submitted within 24 hours.\n\n3. TRANSACTION PATTERNS INDICATING SUSPICIOUS ACTIVITY\n\nThe following transaction patterns may indicate suspicious activity requiring investigation:\n   (a) Structuring: Breaking large transactions into smaller amounts to avoid reporting thresholds (transactions just below AUD 10,000).\n   (b) Rapid movement of funds: Multiple transfers through several accounts within a short timeframe.\n   (c) Inconsistency with business profile:",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 7
+  },
+  {
+    "id": "9e73d3a90c8b",
+    "text": "a short timeframe.\n   (c) Inconsistency with business profile: Transactions inconsistent with the customer's known business activities or financial profile.\n   (d) Cash-intensive transactions: Unusually large cash deposits inconsistent with the customer's business type.\n   (e) Geographic risk: Transactions involving high-risk jurisdictions identified by FATF or AUSTRAC advisories.\n   (f) Dormant account activity: Sudden activity in previously dormant accounts.\n   (g) Layering: Complex series of transaction",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 8
+  },
+  {
+    "id": "223d71fd0493",
+    "text": "dormant accounts.\n   (g) Layering: Complex series of transactions designed to obscure the audit trail.\n\n4. SAR NARRATIVE REQUIREMENTS\n\nA well-structured SAR narrative must include:\n   (a) a clear description of the suspicious activity or transaction;\n   (b) the basis for the suspicion, including specific transaction details;\n   (c) relevant customer background and account history;\n   (d) the timeframe of the suspicious activity;\n   (e) any actions taken by the reporting entity in response to the suspicion.",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 9
+  },
+  {
+    "id": "fa138f6dfbf6",
+    "text": "ons taken by the reporting entity in response to the suspicion.\n\n---\n\nSAMPLE 10-K RISK DISCLOSURE — FINANCIAL INSTITUTION\n\nRISK FACTORS\n\nCredit Risk: The Company is exposed to credit risk through its lending activities. The Company manages credit risk through its credit underwriting standards, portfolio diversification, and ongoing monitoring of borrower financial condition. As of December 31, 2024, the allowance for credit losses was $2.4 billion, representing 1.8% of total loans outstanding.\n\nMarket Risk:",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 10
+  },
+  {
+    "id": "e4716a18edba",
+    "text": "ion, representing 1.8% of total loans outstanding.\n\nMarket Risk: Market risk arises from changes in interest rates, foreign exchange rates, and equity prices that may adversely affect the Company's financial condition. The Company's primary market risk is interest rate risk, managed through asset-liability management techniques including duration matching and interest rate derivatives.\n\nLiquidity Risk: The Company maintains adequate liquidity through diversified funding sources including retail deposits, wh",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 11
+  },
+  {
+    "id": "bc0a3f72a883",
+    "text": "hrough diversified funding sources including retail deposits, wholesale funding, and central bank facilities. The Liquidity Coverage Ratio (LCR) as of December 31, 2024 was 132%, exceeding the regulatory minimum of 100%.\n\nOperational Risk: Operational risk includes risks from inadequate or failed internal processes, people, systems, or external events. The Company maintains a comprehensive operational risk framework including risk and control self-assessments, loss event management, and scenario analysis.",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 12
+  },
+  {
+    "id": "ed432cb1a96b",
+    "text": "elf-assessments, loss event management, and scenario analysis.\n\nCapital Adequacy: The Company's Common Equity Tier 1 (CET1) capital ratio was 13.2% as of December 31, 2024, well above the regulatory minimum of 4.5% and the Company's internal target of 11.0%.",
+    "source": "sample_regulatory_docs.txt",
+    "chunk_index": 13
+  }
+]

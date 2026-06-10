@@ -1,0 +1,97 @@
+APRA PRUDENTIAL STANDARD APS 220 — CREDIT RISK MANAGEMENT
+Australian Prudential Regulation Authority
+
+PART 1 — PRELIMINARY
+
+1. This Prudential Standard sets out the requirements that an authorised deposit-taking institution (ADI) must meet in relation to the management of credit risk.
+
+2. Credit risk is the risk of financial loss resulting from a borrower or counterparty failing to meet their obligations in accordance with agreed terms.
+
+PART 2 — CREDIT RISK MANAGEMENT FRAMEWORK
+
+3. An ADI must have a Board-approved credit risk management framework that is commensurate with the nature, scale, and complexity of its activities.
+
+4. The credit risk management framework must include:
+   (a) a credit risk appetite statement that defines the level and types of credit risk the ADI is willing to accept;
+   (b) credit policies and procedures for identifying, measuring, monitoring, and controlling credit risk;
+   (c) a system for credit approval, administration, and monitoring;
+   (d) processes for identifying and managing problem credits;
+   (e) adequate provisioning for credit losses.
+
+PART 3 — CREDIT RISK APPETITE
+
+5. An ADI's credit risk appetite must be consistent with the ADI's overall risk appetite and business strategy.
+
+6. The credit risk appetite statement must set out:
+   (a) the types of credit exposures the ADI is willing to undertake;
+   (b) concentration limits for individual borrowers, industry sectors, geographic regions, and product types;
+   (c) acceptable credit quality thresholds including minimum credit ratings or equivalent internal ratings.
+
+PART 4 — CREDIT ASSESSMENT
+
+7. An ADI must conduct rigorous credit assessments before extending credit. The assessment must consider:
+   (a) the borrower's capacity to repay, including current and projected cash flows;
+   (b) the borrower's character and willingness to repay;
+   (c) the nature and value of collateral or security offered;
+   (d) macroeconomic conditions that may affect the borrower's ability to repay.
+
+8. For large exposures, an ADI must conduct independent credit assessments that do not rely solely on external credit ratings.
+
+PART 5 — PROBLEM CREDIT MANAGEMENT
+
+9. An ADI must have a system for early identification of problem credits and must take timely action to address deteriorating credit quality.
+
+10. Problem credits must be classified according to the ADI's internal credit grading system, which must align with APRA's prescribed categories: Pass, Special Mention, Substandard, Doubtful, and Loss.
+
+---
+
+AUSTRAC REGULATORY GUIDE — SUSPICIOUS MATTER REPORTING
+
+1. INTRODUCTION
+
+Suspicious matter reporting is a key component of Australia's anti-money laundering and counter-terrorism financing (AML/CTF) framework. Reporting entities are required to submit Suspicious Matter Reports (SMRs) to AUSTRAC when they form a suspicion that matters may be related to:
+- money laundering
+- financing of terrorism
+- proceeds of crime
+- tax evasion
+- fraud or other serious offences
+
+2. WHEN TO REPORT
+
+A reporting entity must submit an SMR as soon as practicable, and no later than three business days after forming a suspicion. For terrorism financing suspicions, the report must be submitted within 24 hours.
+
+3. TRANSACTION PATTERNS INDICATING SUSPICIOUS ACTIVITY
+
+The following transaction patterns may indicate suspicious activity requiring investigation:
+   (a) Structuring: Breaking large transactions into smaller amounts to avoid reporting thresholds (transactions just below AUD 10,000).
+   (b) Rapid movement of funds: Multiple transfers through several accounts within a short timeframe.
+   (c) Inconsistency with business profile: Transactions inconsistent with the customer's known business activities or financial profile.
+   (d) Cash-intensive transactions: Unusually large cash deposits inconsistent with the customer's business type.
+   (e) Geographic risk: Transactions involving high-risk jurisdictions identified by FATF or AUSTRAC advisories.
+   (f) Dormant account activity: Sudden activity in previously dormant accounts.
+   (g) Layering: Complex series of transactions designed to obscure the audit trail.
+
+4. SAR NARRATIVE REQUIREMENTS
+
+A well-structured SAR narrative must include:
+   (a) a clear description of the suspicious activity or transaction;
+   (b) the basis for the suspicion, including specific transaction details;
+   (c) relevant customer background and account history;
+   (d) the timeframe of the suspicious activity;
+   (e) any actions taken by the reporting entity in response to the suspicion.
+
+---
+
+SAMPLE 10-K RISK DISCLOSURE — FINANCIAL INSTITUTION
+
+RISK FACTORS
+
+Credit Risk: The Company is exposed to credit risk through its lending activities. The Company manages credit risk through its credit underwriting standards, portfolio diversification, and ongoing monitoring of borrower financial condition. As of December 31, 2024, the allowance for credit losses was $2.4 billion, representing 1.8% of total loans outstanding.
+
+Market Risk: Market risk arises from changes in interest rates, foreign exchange rates, and equity prices that may adversely affect the Company's financial condition. The Company's primary market risk is interest rate risk, managed through asset-liability management techniques including duration matching and interest rate derivatives.
+
+Liquidity Risk: The Company maintains adequate liquidity through diversified funding sources including retail deposits, wholesale funding, and central bank facilities. The Liquidity Coverage Ratio (LCR) as of December 31, 2024 was 132%, exceeding the regulatory minimum of 100%.
+
+Operational Risk: Operational risk includes risks from inadequate or failed internal processes, people, systems, or external events. The Company maintains a comprehensive operational risk framework including risk and control self-assessments, loss event management, and scenario analysis.
+
+Capital Adequacy: The Company's Common Equity Tier 1 (CET1) capital ratio was 13.2% as of December 31, 2024, well above the regulatory minimum of 4.5% and the Company's internal target of 11.0%.

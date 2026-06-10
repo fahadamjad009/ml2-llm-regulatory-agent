@@ -1,0 +1,10 @@
+﻿.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/raw/
+data/processed/*.faiss
+data/processed/*.pkl
+data/processed/*.npy
+*.log
+.DS_Store
