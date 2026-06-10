@@ -242,6 +242,19 @@ To add your own documents, place PDFs or `.txt` files in `data/sample_docs/` and
 ## CI
 
 GitHub Actions workflow configured. Requires `OLLAMA_BASE_URL` pointing to a running Ollama instance — all 40 tests pass locally.
+## Deployment
+
+This project requires a locally running Ollama instance (`ollama serve`) and cannot be
+deployed to standard cloud platforms without a hosted LLM backend.
+
+**Local deployment:**
+```bash
+ollama serve          # terminal 1
+uvicorn app.api:app   # terminal 2  
+streamlit run app/ui.py  # terminal 3
+```
+
+A demo mode with pre-computed responses is planned for Streamlit Cloud deployment.
 
 ---
 
