@@ -76,10 +76,18 @@ User Query / Transaction Flags
 ## Screenshots
 
 ### Regulatory Q&A with RRF Score Visualisation
-![Q&A](reports/qa_screenshot.png)
+![Hero](reports/01_hero.png)
+
+![Q&A Answer](reports/02_qa_answer.png)
+
+![RRF Chart](reports/03_rrf_chart.png)
 
 ### SAR Narrative Generator
-![SAR](reports/sar_screenshot.png)
+![SAR Form](reports/04_sar_form.png)
+
+![SAR Narrative](reports/05_sar_narrative.png)
+
+![Architecture](reports/06_architecture.png)
 
 ---
 
